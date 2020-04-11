@@ -6,3 +6,5 @@
 ### B. Build & Execute
 Compile the code : gcc priority_queue.c<br>
 Once the compilation is done, the a.out file created can be executed.
+
+##### PS. The program performs best on short burst times. If the burst time for any teacher or student surpasses 100seconds, they will be prioritised and served before any further input is taken.   
